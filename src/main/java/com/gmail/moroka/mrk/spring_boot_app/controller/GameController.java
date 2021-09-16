@@ -128,6 +128,8 @@ public class GameController {
 
     }
 
+    @RequestMapping("/playSimpleRoulette")
+
     private void updateUserBalanceAfterGuessTheNumberSpin(boolean isWin, GuessTheNumberManager guessTheNumberManager){
         int bid = guessTheNumberManager.getBid();
 
