@@ -36,7 +36,9 @@
 
     <input type="submit" value="Spin">
 </form:form>
-<br><br>
+<br>
+
+<br>
 <input type="button" value="another game" onclick="window.location.href='/play/getGamesList'">
 <input type="button" value="starter menu" onclick="window.location.href='/'">
 </body>

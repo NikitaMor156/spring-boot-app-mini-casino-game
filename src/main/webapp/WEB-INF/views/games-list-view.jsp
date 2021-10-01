@@ -14,8 +14,8 @@
 <input type="button" value="GUESS THE NUMBER" onclick="window.location.href='/play/getGamesList/playGuessTheNumber'">
 <br><br>
 
-<%--<input type="button" value="RUSSIAN ROULETTE" onclick="window.location.href='/play/getGamesList/playSimpleRoulette'">--%>
-<%--<br><br>--%>
+<input type="button" value="ONE HAND BANDIT" onclick="window.location.href='/play/getGamesList/playOneHandBandit'">
+<br><br>
 
 <input type="button" value="RUSSIAN ROULETTE" onclick="window.location.href='/play/getGamesList/playRussianRoulette'">
 <br><br><br>

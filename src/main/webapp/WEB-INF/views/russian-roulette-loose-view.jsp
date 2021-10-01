@@ -1,7 +1,7 @@
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <!DOCTYPE html>
 <html>
-<body>
+<body><%--
 <pre>
                      .ed"""" """$$$$be.
                    -"           ^""**$$$e.
@@ -34,6 +34,14 @@
         ^*$E")$..$"                         *   .ee==d%
            $.d$$$*                           *  J$$$e*
             """""                              "$$$"
+</pre>--%>
+
+<pre>
+      ,-=-.       ______     _
+     /  +  \     />----->  _|1|_
+     | ~~~ |    // -/- /  |_ H _|
+     |R.I.P|   //  /  /     |S|
+\vV,,|_____|V,//_____/VvV,v,|_|/,,vhjwv/,
 </pre>
 
 <br><br>
