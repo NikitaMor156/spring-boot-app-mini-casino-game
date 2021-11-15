@@ -5,4 +5,4 @@ Application is easy to start. You need just to run the main method of SpringBoot
 ATTENTION!!!
 Branch https://github.com/NikitaMor156/spring-boot-app-mini-casino-game/tree/With_in-memory_database uses in-memory database. It means that in this case you can run app without any additional configurations. (Just start the main method of SpringBootAppApplication class and and go to URL localhost:8081 in your browser.)
 
-(Also make sure that port 8081 is free)
+(Also make sure that the port 8081 of your PC is free)
