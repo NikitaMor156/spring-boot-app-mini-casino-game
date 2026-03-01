@@ -8,6 +8,8 @@
 
 Your balance is ${balance}
 <br><br>
+<pre></pre>
+<br>
 
 <input type="button" value="play again" onclick="window.location.href='/play/getGamesList/playRussianRoulette'">
 <br><br>

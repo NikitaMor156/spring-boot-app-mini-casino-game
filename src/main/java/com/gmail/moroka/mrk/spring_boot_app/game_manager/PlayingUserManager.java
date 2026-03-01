@@ -23,12 +23,14 @@ public class PlayingUserManager {
         return playingUser;
     }
 
-
-    private void updatePlayingUser(){
-        int id =(int) session.getAttribute("currentPlayingUserId");
-        playingUser = userService.getUser(id);
+    private void updatePlayingUser() {
+        try {
+            int id = (int) session.getAttribute("currentPlayingUserId");
+            playingUser = userService.getUser(id);
+        } catch (NullPointerException e) {
+            System.out.println("Uncritical error (but it mustn't break a program)");
+        }
     }
-
 
     public void addAmountAndSave(int amount) {
         updatePlayingUser();

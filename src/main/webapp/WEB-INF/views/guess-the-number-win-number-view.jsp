@@ -21,6 +21,17 @@ your balance: ${balance}
 <br><br>
 <input type="button" value="another game" onclick="window.location.href='/play/getGamesList'">
 <input type="button" value="main menu" onclick="window.location.href='/'">
+<br><br>
+<pre>
+              _______.
+   ______    | .   . |\
+  /     /\   |   .   |.\
+ /  '  /  \  | .   . |.'|
+/_____/. . \ |_______|.'|
+\ . . \    /  \ ' .   \'|
+ \ . . \  /    \____'__\|
+  \_____\/
+</pre>
 
 </body>
 

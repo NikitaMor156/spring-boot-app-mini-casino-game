@@ -11,6 +11,12 @@ How many bullets you will add to clip?
 <form:form action="getRussianRouletteSpinResult" modelAttribute="russianRouletteManager">
     <form:radiobuttons path="revolverClipBulletCount" items="${russianRouletteManager.revolverClipBulletCountList}"/>
     <br><br>
+    <pre>
+        _____.
+      ~(_]---'
+     /_(U
+    </pre>
+    <br><br>
 
     1 bullet - 500
     <br>
